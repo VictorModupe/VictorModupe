@@ -7,4 +7,4 @@
 - 📫 How to reach me (08159040537)
 
 -https://github.com/zuri-training/Team_87_zuri_fetch_metadata
--(The above is a team project that I contributed to.)
+-(This is a team project that I contributed to.)
